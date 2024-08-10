@@ -1,0 +1,26 @@
+Manage Coffee shop:
+	+ Manage staff.
+	+ Manage bill.
+	+ Manage customer.
+	+ Menu (drinks and cakes).
+	+ Manage display.
+.Staff:
+	.Resume
+	.Salary
+	.Workday
+	.Something necessary (See data_structure and algothrism)
+.Manage bill:
+	.Title (Name of coffee shop)
+	.Logo 
+	.Food is selected (amount)
+	.Tax
+	.Total amount (full price)
+	.Payment method
+	.Complete pay (print bill)
+.Manage Menu:
+	.List drinks and cake.
+	.Add foods
+	.Delete foods
+	
+	
+	
